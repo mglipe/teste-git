@@ -1,0 +1,7 @@
+.navigation ul li{
+    display: inline;
+
+    position: relative;
+    left: 50%;
+    top: -3em;
+}
